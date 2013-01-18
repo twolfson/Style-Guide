@@ -736,3 +736,8 @@ Attribution
 - [idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Never used but browsed over
 - [Nicolas Zakas](http://www.nczonline.net/) - Drove a good amount of some [Day to day](#day-to-day) topics
 - [Douglas Crockford](http://www.crockford.com/) - Angry old man who loves his semicolons
+
+License
+=======
+Copyright (c) 2013 Todd Wolfson
+Licensed under the MIT license.
