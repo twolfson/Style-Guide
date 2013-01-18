@@ -1,6 +1,6 @@
 UI Style Guide
 ==============
-This style guide was written as a reference for Ensighten's Manage-Interface.
+Documentation of twolfson's style of JavaScript programming.
 
 Contents
 --------
